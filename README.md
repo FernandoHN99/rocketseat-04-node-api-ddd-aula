@@ -44,12 +44,6 @@ npm run migrate
 npm run test
 ```
 
-### 6. Iniciar a aplicação
-
-```sh
-npm run dev
-```
-
 ## 📮 Endpoints
 
 > Controllers ainda mão implementadas.
